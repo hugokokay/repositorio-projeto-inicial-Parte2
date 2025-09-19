@@ -39,7 +39,6 @@ Após criar, você verá algo como:
 
 ⚠️ **Importante**: Copie e guarde esta URI, você precisará dela!
 
-*[Espaço para print: Repositório criado com a URI visível]*
 
 ---
 
@@ -73,7 +72,6 @@ Você deve ver:
 Login Succeeded
 ```
 
-*[Espaço para print: Login bem-sucedido no ECR]*
 
 ### Passo 2.3: Tagar a imagem para o ECR
 
@@ -95,7 +93,6 @@ def456: Pushed
 v1.0: digest: sha256:xyz789... size: 1234
 ```
 
-*[Espaço para print: Push concluído]*
 
 ### Passo 2.5: Verificar no Console AWS
 
@@ -103,6 +100,5 @@ v1.0: digest: sha256:xyz789... size: 1234
 2. Clique no seu repositório
 3. Você deve ver a imagem com a tag v1.0
 
-*[Espaço para print: Imagem no ECR]*
 
 ---
