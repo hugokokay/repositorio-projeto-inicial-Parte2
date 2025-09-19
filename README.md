@@ -1,4 +1,4 @@
-# Push da imegem da sua máquina para Amazon ECR
+# Push da imagem da sua máquina para o repositório Amazon ECR
 
 Mandar a imagem criada na sua máquina para o reposiório da ECR da Amazon
 ```
