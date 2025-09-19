@@ -1,3 +1,8 @@
+# Push da imegem da sua máquina para Amazon ECR
+
+Mandar a imagem criada na sua máquina para o reposiório da ECR da Amazon
+
+
 Fase 1: Configuração do Amazon ECR
 Passo 1.1: Acessar o Console AWS
 Acesse console.aws.amazon.com
